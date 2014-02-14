@@ -68,7 +68,7 @@ public class bicycle {
  * 		__________________Sub class_______________________
  * 		public class MountainBike extends bicycle {
  * 			int seatHeight;
- * 			super(initialGear); <-------- Does this initializes the 
+ * 			super(initialGear); <-------- Does this initialize the 
  * 										  inherited data member to a 
  * 										  default value??
  * 		} 
